@@ -1,2 +1,2 @@
-# Guideline
-網頁規範練習
+## 規範頁面製作練習
+* 利用 bootstrap
