@@ -1,5 +1,5 @@
 ## 規範頁面製作練習
-嘗試自己設定網頁規範，將 css 分成 base、components、custom（參考網路命名方式並分類 css），而 RWD 是運用 bootstrap 的 grid 檔案，文字則是使用 fontawesome 的設定。
+嘗試自己設定網頁規範，將 css 分成 base、components、custom（參考網路命名方式並分類 css），而 RWD 是運用 bootstrap 的 grid 檔案，文字則是使用 fontawesome 。
 * base 基礎css：包含預設樣式、字型、顏色、padding、margin等網頁基礎設定
 * components 組件css：包含按鈕、圖像、card、navbar、jumbotron、footer等細節設定
 * custom ：其餘 css 調整設定
