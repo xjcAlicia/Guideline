@@ -1,3 +1,4 @@
+[PetWeb 規範頁面製作](https://xjcalicia.github.io/Guideline_test/)
 ## 規範頁面製作練習
 嘗試自己設定網頁規範，將 css 分成 base、components、custom（參考網路命名方式並分類 css），而 RWD 是運用 bootstrap 的 grid 檔案，並搭配 fontawesome 呈現 icon。
 * base 基礎css：包含預設樣式、字型、顏色、padding、margin等網頁基礎設定
