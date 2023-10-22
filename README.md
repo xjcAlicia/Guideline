@@ -16,4 +16,4 @@
 9. CARDS 的呈現樣貌
 10. FOOTER | 頁尾在不同主題下的樣式呈現
 <br><br><br>
-> 開發環境: Visual Stdio Code
+> 開發環境: Visual Studio Code
